@@ -1,0 +1,40 @@
+{
+  "source": "https://developers.openai.com/api/docs/pricing (standard tier)",
+  "as_of": "2026-11-04",
+  "currency": "USD",
+  "unit_tokens": 1000000,
+  "long_context_input_tokens": 272000,
+  "notes": [
+    "Rates are USD per 1M tokens. 'long' applies when a call's input exceeds long_context_input_tokens.",
+    "cache_write is the page's '30m write' rate.",
+    "Regional (data residency), FedRAMP, Fast mode, Batch and Flex pricing are not modelled.",
+    "valid_until marks a promotional rate; after that date runs warn that the price may be stale."
+  ],
+  "models": {
+    "gpt-5.6-sol": {
+      "valid_until": "2026-11-30",
+      "short": {"input": 4.00, "cached_input": 0.40, "cache_write": 5.00, "output": 20.00},
+      "long": {"input": 8.00, "cached_input": 0.80, "cache_write": 10.00, "output": 30.00}
+    },
+    "gpt-5.6-terra": {
+      "short": {"input": 2.00, "cached_input": 0.20, "cache_write": 2.50, "output": 12.00},
+      "long": {"input": 4.00, "cached_input": 0.40, "cache_write": 5.00, "output": 18.00}
+    },
+    "gpt-5.6-luna": {
+      "short": {"input": 0.20, "cached_input": 0.02, "cache_write": 0.25, "output": 1.20},
+      "long": {"input": 0.40, "cached_input": 0.04, "cache_write": 0.50, "output": 1.80}
+    },
+    "gpt-6.1-sol": {
+      "short": {"input": 2.00, "cached_input": 0.10, "cache_write": 2.50, "output": 10.00},
+      "long": {"input": 4.00, "cached_input": 0.20, "cache_write": 5.00, "output": 15.00}
+    },
+    "gpt-6.1-terra": {
+      "short": {"input": 1.00, "cached_input": 0.05, "cache_write": 1.25, "output": 5.00},
+      "long": {"input": 2.00, "cached_input": 0.10, "cache_write": 2.50, "output": 7.50}
+    },
+    "gpt-6-luna": {
+      "short": {"input": 0.10, "cached_input": 0.01, "cache_write": 0.125, "output": 0.50},
+      "long": {"input": 0.20, "cached_input": 0.02, "cache_write": 0.25, "output": 0.75}
+    }
+  }
+}
