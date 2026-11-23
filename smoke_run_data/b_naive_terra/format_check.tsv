@@ -1,0 +1,20 @@
+output	format	detail
+jama++10.1001_jama.2019.20687++joi190142supp1_prod_protocol.md	pass	
+lancet++10.1016_S0140-6736_25_01726-X++mmc1_protocol.md	pass	
+nejm++10.1056_NEJMoa1215541++nejmoa1215541_protocol.md	pass	
+nejm++10.1056_NEJMoa1408544++nejmoa1408544_protocol.md	pass	
+nejm++10.1056_NEJMoa1503184++nejmoa1503184_protocol.md	fail	Evaluation Input numbers not preserved: 7, 302, 303
+nejm++10.1056_NEJMoa1509852++nejmoa1509852_protocol.md	pass	
+nejm++10.1056_NEJMoa1515920++nejmoa1515920_protocol.md	pass	
+nejm++10.1056_NEJMoa1602046++nejmoa1602046_protocol.md	pass	
+nejm++10.1056_NEJMoa1700518++nejmoa1700518_protocol.md	fail	Evaluation Input numbers not preserved: 8, 9, 11
+nejm++10.1056_NEJMoa2101544++nejmoa2101544_protocol.md	pass	
+nejm++10.1056_NEJMoa2106567++nejmoa2106567_protocol.md	fail	3 [Provided] statements have numbers not in the Evaluation Input: 2.3 Sample Size: '0.700 in - **[Provided]** For the Type 2 inflammatory phenotype population, assu'; 2.3 Sample Size: '0.700 in - **[Provided]** For the eosinophils ≥0.15 Giga/L population, assumed p'; 2.3 Sample Size: '0.320, 0.800 in - **[Provided]** For the eosinophils ≥0.3 Giga/L population, ass'; Evaluation Input numbers not preserved: 0.32, 0.7, 0.8, 14153
+nejm++10.1056_NEJMoa2111016++nejmoa2111016_protocol.md	pass	
+nejm++10.1056_NEJMoa2112187++nejmoa2112187_protocol.md	pass	
+nejm++10.1056_NEJMoa2204601++nejmoa2204601_protocol.md	pass	
+nejm++10.1056_NEJMoa2206714++nejmoa2206714_protocol.md	pass	
+nejm++10.1056_NEJMoa2310392++nejmoa2310392_protocol.md	pass	
+nejm++10.1056_NEJMoa2313040++nejmoa2313040_protocol.md	pass	
+nejm++10.1056_NEJMoa2400314++nejmoa2400314_protocol.md	pass	
+nejm++10.1056_NEJMoa2501510++nejmoa2501510_protocol.md	pass	

@@ -1,0 +1,20 @@
+output	format	detail
+jama++10.1001_jama.2019.20687++joi190142supp1_prod_protocol.md	pass	
+lancet++10.1016_S0140-6736_25_01726-X++mmc1_protocol.md	pass	
+nejm++10.1056_NEJMoa1215541++nejmoa1215541_protocol.md	pass	
+nejm++10.1056_NEJMoa1408544++nejmoa1408544_protocol.md	pass	
+nejm++10.1056_NEJMoa1503184++nejmoa1503184_protocol.md	pass	
+nejm++10.1056_NEJMoa1509852++nejmoa1509852_protocol.md	pass	
+nejm++10.1056_NEJMoa1515920++nejmoa1515920_protocol.md	fail	23 paragraphs, bullets or table rows have no evidence label: 2.4 Hypothesis Framework: '1. Non-inferiority for primary 3-point MACE: H0 HR ≥1.3.'; 2.4 Hypothesis Framework: '2. Non-inferiority for key-secondary 4-point MACE: H0 HR ≥1.3.'; 2.4 Hypothesis Framework: '3. Superiority for primary 3-point MACE: H0 HR ≥1.'; +20 more
+nejm++10.1056_NEJMoa1602046++nejmoa1602046_protocol.md	pass	
+nejm++10.1056_NEJMoa1700518++nejmoa1700518_protocol.md	fail	12 paragraphs, bullets or table rows have no evidence label: 4.2 Eligibility Criteria Summary: '1. The country-specific legal lower age limit.'; 4.2 Eligibility Criteria Summary: '2. An indication for therapeutic-dose anticoagulants.'; 4.2 Eligibility Criteria Summary: '3. Hypersensitivity to investigational or comparator therapy.'; +9 more
+nejm++10.1056_NEJMoa2101544++nejmoa2101544_protocol.md	pass	
+nejm++10.1056_NEJMoa2106567++nejmoa2106567_protocol.md	fail	7 paragraphs, bullets or table rows have no evidence label: 2.4 Hypothesis Framework: '1. Severe-exacerbation rate in eosinophils ≥0.3 Giga/L, eosinophils ≥0.15 Giga/L'; 2.4 Hypothesis Framework: '2. Week-12 pre-bronchodilator (pre-BD) FEV1 in eosinophils ≥0.3 Giga/L, eosinoph'; 2.4 Hypothesis Framework: '3. Week-24 ACQ-7 in eosinophils ≥0.3 Giga/L, eosinophils ≥0.15 Giga/L, and Type '; +4 more
+nejm++10.1056_NEJMoa2111016++nejmoa2111016_protocol.md	pass	
+nejm++10.1056_NEJMoa2112187++nejmoa2112187_protocol.md	fail	Evaluation Input numbers not preserved: 0
+nejm++10.1056_NEJMoa2204601++nejmoa2204601_protocol.md	fail	33 paragraphs, bullets or table rows have no evidence label: 1.2 Objectives: '- **S1:** Compare individual-dose HbA1c change at Week 26.'; 1.2 Objectives: '- **S2:** Assess FBG change at Week 26.'; 1.2 Objectives: '- **S3:** Assess the proportion with HbA1c <7.0% at Week 26.'; +30 more
+nejm++10.1056_NEJMoa2206714++nejmoa2206714_protocol.md	pass	
+nejm++10.1056_NEJMoa2310392++nejmoa2310392_protocol.md	fail	1 carry more than one evidence label and must be split: 2.3 Sample Size: '**[Derived]** A 5% reduction from 456 is 433.2, rather than 432. **[Clarificatio'
+nejm++10.1056_NEJMoa2313040++nejmoa2313040_protocol.md	pass	
+nejm++10.1056_NEJMoa2400314++nejmoa2400314_protocol.md	pass	
+nejm++10.1056_NEJMoa2501510++nejmoa2501510_protocol.md	pass	

@@ -10,7 +10,7 @@ wheels/
 .venv
 
 .codex-home/*
-*data*
+
 readme_docs/*
 .DS_Store
 
